@@ -4,18 +4,18 @@
     "namespace": "fn-e83103c0-9f41-4493-80a4-a6f77b08ee87",
     "packageVersions": {
       "fringe": {
-        "version": "0.0.26",
+        "version": "0.0.34",
         "digest": "b42cc0d2e97e9df34c7aeb76ec001ca57dea28990a762efd16d519f89b13cf0a"
       }
     },
     "actionVersions": {
       "fringe/get-venue": {
-        "version": "0.0.8",
-        "digest": "8d741b70f12d7e373425c8554265690052b51c2a9e168db7d79a57e6625bcbb5"
+        "version": "0.0.16",
+        "digest": "1d8bee347152c1a8d1b39c0264b17b0d76749ff3c1167045c3ada280d1042c7e"
       },
       "fringe/has-availability": {
-        "version": "0.0.25",
-        "digest": "9683fe0a953f5c816b69c9bfa02d1a54445ca7e3d901aecbb98e2436520857e2"
+        "version": "0.0.33",
+        "digest": "ae86db3eafcf1596b26f27defd3af066333eb3b91d613e6c91480204ba0b969d"
       }
     },
     "webHashes": {}
